@@ -1,0 +1,18 @@
+.prefession{
+
+    font-size: 14px;
+}
+.btnStyle{
+    width: 200px;
+    background-color: blueviolet;
+    border-radius: 6px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.button{
+    padding: 5px;
+    cursor: pointer;
+}
+.cart{
+  background-color: yellow;
+}
