@@ -1,3 +1,8 @@
+.card{
+    background-color: rgb(171, 248, 248)
+}
+
+
 .prefession{
 
     font-size: 14px;
@@ -16,4 +21,11 @@
 }
 .cart{
   background-color: yellow;
+}
+.imageStyle{
+   align-items: center;
+   margin-top: 5px;
+}
+.image{
+    width: 100px;
 }

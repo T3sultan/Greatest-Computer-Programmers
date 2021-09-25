@@ -25,7 +25,7 @@ const Greatest = () => {
     return (
         <div>
             <div className="row">
-                <div className="col-md-9">
+                <div className="col-md-9 p-1">
                     {/* this is product load step */}
                     <div className="row">
                         {
