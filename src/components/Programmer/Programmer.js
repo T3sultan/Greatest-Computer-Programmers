@@ -11,7 +11,7 @@ const dollar = <FontAwesomeIcon icon={faDollarSign} />
 const Programmer = (props) => {
     const { name, img, prefession, born, citizenship, education, awards, salary, fields, website } = props.greatest || {}
     return (
-        <div className="card my-2 m-1" style={{ "width": '21rem' }}>
+        <div className="card my-2 m-3">
            
                 <div className="imageStyle">
                     <img src={img} className="card-img-top image rounded-circle" alt="..." />

@@ -16,9 +16,9 @@ const Cart = (props) => {
     const total = cart.reduce(sumReducer, 0);
 
     return (
-        <div className="card border-light mb-3 my-5" style={{ "max-width": '18rem' }}>
+        <div className="card border-light mb-3 my-5 m-2">
             <div className="card-header">
-                <h3><i class="fas fa-shopping-cart"></i>
+                <h3><i className="fas fa-shopping-cart"></i>
                    {user} {cart.length}
 
                 </h3>
